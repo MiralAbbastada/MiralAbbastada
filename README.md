@@ -1,4 +1,5 @@
-<img src="https://wallpaperaccess.com/full/1338395.jpg">
+![image](https://github.com/user-attachments/assets/4c68709d-c48d-463d-84bb-c215ede002da)
+
 
 <h2 align="center">💻 A FullStack & Mobile developer from Ashgabat 💻</h2>
 
