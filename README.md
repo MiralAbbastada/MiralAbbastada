@@ -1,3 +1,5 @@
+<img src="https://photos.fife.usercontent.google.com/pw/AP1GczNenjzv_aF12elNsPXTNQN0tWi37UgBCuooYLCYZKujbYvPzUTDheQ=w908-h454-s-no-gm?authuser=0">
+
 <h2 align="center">💻 A FullStack & Mobile developer from Ashgabat 💻</h2>
 
 - 🔭 I’m currently working on [Miral BIT](https://t.me/miralbit)
