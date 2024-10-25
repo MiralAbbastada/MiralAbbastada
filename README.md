@@ -1,3 +1,15 @@
+<h2 align="center">💻 A FullStack & Mobile developer from Ashgabat 💻</h2>
+
+- 🔭 I’m currently working on [Miral BIT](https://t.me/miralbit)
+
+- 📝 I regularly write articles about my app on [https://t.me/miralbit](https://t.me/miralbit)
+
+- 💬 Ask me about **Flutter, Python, Firebase and more**
+
+- 📫 How to reach me **abbastadam@gmail.com**
+
+- 👓 My portfolio - ** coming soon **
+
 <h2 align="center">🏹 My skills 🏹</h2>
 
 <p align="center">
