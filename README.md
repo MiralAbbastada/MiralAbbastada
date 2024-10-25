@@ -15,4 +15,7 @@
   <a href="https://t.me/MiralAbbastada">
     <img src="https://cdn.iconscout.com/icon/free/png-256/free-telegram-logo-icon-download-in-svg-png-gif-file-formats--social-media-pack-logos-icons-5314546.png?f=webp&w=48" />
   </a>
+  <a href="https://www.instagram.com/abbastadamiral/">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
 </p>
