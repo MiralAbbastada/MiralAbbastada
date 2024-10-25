@@ -1,4 +1,4 @@
-<img src="https://freeimage.host/i/2qnNxob">
+[https://freeimage.host/i/2qnNxob](https://freeimage.host/i/2qnNxob)
 
 <h2 align="center">💻 A FullStack & Mobile developer from Ashgabat 💻</h2>
 
