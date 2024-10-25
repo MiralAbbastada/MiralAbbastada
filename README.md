@@ -13,6 +13,6 @@
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   <a href="https://t.me/MiralAbbastada">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/free-telegram-logo-icon-download-in-svg-png-gif-file-formats--social-media-pack-logos-icons-5314546.png?f=webp&w=256" />
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-telegram-logo-icon-download-in-svg-png-gif-file-formats--social-media-pack-logos-icons-5314546.png?f=webp&w=48" />
   </a>
 </p>
