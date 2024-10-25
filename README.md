@@ -1,4 +1,4 @@
-<a href="https://freeimage.host/i/2qn4VQS"><img src="https://iili.io/2qn4VQS.md.png" style="width: 100%" alt="2qn4VQS.md.png" border="0"></a>
+<img src="https://wallpaperaccess.com/full/1338395.jpg">
 
 <h2 align="center">💻 A FullStack & Mobile developer from Ashgabat 💻</h2>
 
