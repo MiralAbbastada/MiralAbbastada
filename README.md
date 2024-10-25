@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **abbastadam@gmail.com**
 
-- 👓 My portfolio - ** coming soon **
+- 👓 My portfolio - **coming soon**
 
 <h2 align="center">🏹 My skills 🏹</h2>
 
