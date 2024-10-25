@@ -1,4 +1,4 @@
-[https://freeimage.host/i/2qnNxob](https://freeimage.host/i/2qnNxob)
+<img src="https://iili.io/2qnNxob.png">
 
 <h2 align="center">💻 A FullStack & Mobile developer from Ashgabat 💻</h2>
 
