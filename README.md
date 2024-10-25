@@ -5,3 +5,14 @@
     <img src="https://skillicons.dev/icons?i=figma,flutter,firebase,androidstudio,html,css,js,py,django,pycharm,dart,github,gitlab,git,nodejs,react,vite,linux,sqlite,vscode,postman" />
   </a>
 </p>
+
+<h2 align="center">🤙 Contact me 🤙</h2>
+
+<p align="center">
+  <a href="mailto:abbastadam@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://t.me/MiralAbbastada">
+    <img src="https://skillicons.dev/icons?i=telegram,instagram" />
+  </a>
+</p>
