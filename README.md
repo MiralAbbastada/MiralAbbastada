@@ -34,5 +34,3 @@
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
-
-![Snake animation](https://raw.githubusercontent.com/MiralAbbastada/MiralAbbastada/output/github-contribution-grid-snake-dark.svg)
