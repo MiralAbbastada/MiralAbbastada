@@ -54,8 +54,7 @@ I'm always exploring and experimenting with new tools and frameworks to refine m
   </a>
 </p>
 
-![image](https://github.com/user-attachments/assets/4c68709d-c48d-463d-84bb-c215ede002da)
-
+<img src="https://github.com/user-attachments/asset-c48d-463d-84bb-c215ede002das/4c68709d" alt="Circular Image" style="border-radius: 50%; width: 200px; height: 200px;" />
 ---
 
 Thanks for stopping by! 🚀
