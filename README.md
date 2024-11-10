@@ -1,51 +1,38 @@
 # 👋 Hi, I'm Miral Abbastada (aka Abdullah)
 
 ### 💻 About Me
-I'm a passionate developer with over 3 years of experience in programming. Known for my strong programming skills, I continuously explore new technologies and develop projects that push my abilities further.
+I'm a passionate developer with over 3 years of experience in programming. With strong programming skills, I continuously explore new technologies and build projects that challenge and expand my expertise.
 
-Currently, I'm diving deep into **mobile development with Flutter**, building exciting projects and expanding my knowledge across multiple technologies.
+Currently, I'm focused on **mobile development with Flutter**, where I'm creating engaging projects and expanding my tech knowledge.
 
-### 📱 Current Project
-I’m actively working on **Miral BIT** – a comprehensive cryptocurrency application that offers users access to:
-- **Crypto Data**: Up-to-date information on popular cryptocurrencies.
-- **News & Articles**: The latest happenings and insights in the crypto world.
-- **Games** and **DeFi Apps**: Interactive and financial tools to engage users.
+### 📱 Current Project: Miral BIT
+I'm actively developing **Miral BIT** – a comprehensive cryptocurrency app offering:
+- **Crypto Data**: Live updates and insights on popular cryptocurrencies.
+- **News & Articles**: Latest crypto news and in-depth articles.
+- **Games** and **DeFi Apps**: Interactive tools for user engagement.
 
-You can find updates, news, and announcements about Miral BIT on my Telegram channel, **[Miral BIT Channel](https://t.me/miralbit)**.
+Stay updated with Miral BIT's news and updates on my **[Miral BIT Telegram Channel](https://t.me/miralbit)**.
 
 ### 🛠 Tech Stack
-I have hands-on experience with a variety of technologies:
+I'm experienced with a diverse set of tools and languages:
 - **Mobile Development**: Flutter, Dart, Firebase
 - **Back-End**: Python, Django, REST APIs, Node.js, SQLite, PostgreSQL
 - **Front-End**: HTML, CSS, JavaScript, React (some experience)
 - **Languages**: Python, C++, C#, JavaScript, and more.
 
-I'm constantly learning and experimenting with new tools and frameworks to improve my skill set and deliver impactful projects.
-
-### 📫 Connect with Me
-If you're interested in my work, feel free to connect on [Telegram](https://t.me/MiralAbbastada) or check out the **[Miral BIT Channel](https://t.me/miralbit)** for project updates!
+I'm always exploring and experimenting with new tools and frameworks to refine my skill set and develop impactful projects.
 
 ---
 
-Thanks for stopping by! 🚀
+<h2 align="center">💻 Full-Stack & Mobile Developer from Ashgabat 💻</h2>
 
+- 🔭 Currently working on [Miral BIT](https://t.me/miralbit)
+- 📝 Regularly share updates and articles about my app on **[Miral BIT Channel](https://t.me/miralbit)**
+- 💬 Feel free to ask me about **Flutter, Python, Firebase, and more**
+- 📫 Reach me at **[abbastadam@gmail.com](mailto:abbastadam@gmail.com)**
+- 👓 Portfolio - **Coming Soon**
 
-![image](https://github.com/user-attachments/assets/4c68709d-c48d-463d-84bb-c215ede002da)
-
-
-<h2 align="center">💻 A FullStack & Mobile developer from Ashgabat 💻</h2>
-
-- 🔭 I’m currently working on [Miral BIT](https://t.me/miralbit)
-
-- 📝 I regularly write articles about my app on [https://t.me/miralbit](https://t.me/miralbit)
-
-- 💬 Ask me about **Flutter, Python, Firebase and more**
-
-- 📫 How to reach me **abbastadam@gmail.com**
-
-- 👓 My portfolio - **coming soon**
-
-<h2 align="center">🏹 My skills 🏹</h2>
+<h2 align="center">🏹 My Skills 🏹</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -53,16 +40,22 @@ Thanks for stopping by! 🚀
   </a>
 </p>
 
-<h2 align="center">🤙 Contact me 🤙</h2>
+<h2 align="center">🤙 Connect with Me 🤙</h2>
 
 <p align="center">
   <a href="mailto:abbastadam@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   <a href="https://t.me/MiralAbbastada">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/free-telegram-logo-icon-download-in-svg-png-gif-file-formats--social-media-pack-logos-icons-5314546.png?f=webp&w=48" />
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-telegram-logo-icon-download-in-svg-png-gif-file-formats--social-media-pack-logos-icons-5314546.png?f=webp&w=48" alt="Telegram"/>
   </a>
   <a href="https://www.instagram.com/abbastadamiral/">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
+
+![image](https://github.com/user-attachments/assets/4c68709d-c48d-463d-84bb-c215ede002da)
+
+---
+
+Thanks for stopping by! 🚀
