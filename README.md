@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Miral Abbastada (aka Abdullah)
+# 👋 Hi, I'm Miral Abbastada (aka Abdulla)
 
 ### 💻 About Me
 I'm a passionate developer with over 3 years of experience in programming. With strong programming skills, I continuously explore new technologies and build projects that challenge and expand my expertise.
