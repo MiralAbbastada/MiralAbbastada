@@ -27,7 +27,7 @@ I'm always exploring and experimenting with new tools and frameworks to refine m
 
 <h2 align="center">💻 Full-Stack & Mobile Developer from Ashgabat 💻</h2>
 
-- 🔭 Currently working on [Miral Miral Music](https://t.me/miralapps)
+- 🔭 Currently working on [Miral Music](https://t.me/miralapps)
 - 📝 Regularly share updates and articles about my app on **[Miral Apps Channel](https://t.me/miralapps)**
 - 💬 Feel free to ask me about **Flutter, Python, Firebase, and more**
 - 📫 Reach me at **[abbastadam@gmail.com](mailto:abbastadam@gmail.com)**
