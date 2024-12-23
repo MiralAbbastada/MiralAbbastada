@@ -5,13 +5,14 @@ I'm a passionate developer with over 3 years of experience in programming. With 
 
 Currently, I'm focused on **mobile development with Flutter**, where I'm creating engaging projects and expanding my tech knowledge.
 
-### 📱 Current Project: Miral BIT
-I'm actively developing **Miral BIT** – a comprehensive cryptocurrency app offering:
-- **Crypto Data**: Live updates and insights on popular cryptocurrencies.
-- **News & Articles**: Latest crypto news and in-depth articles.
-- **Games** and **DeFi Apps**: Interactive tools for user engagement.
+### 📱 Current Project: Miral Music
+I'm actively developing **Miral Music** – a music streaming app that offers:
+- **Online Music**: Access to a vast library of online music for streaming.
+- **Local Music**: Play music stored on your device, with a sleek and user-friendly interface.
+- **Free and Beautiful**: Completely free, with an intuitive and visually appealing design for the best user experience.
+- **Convenient**: A smooth and easy-to-use app for music lovers, available for everyone.
 
-Stay updated with Miral BIT's news and updates on my **[Miral BIT Telegram Channel](https://t.me/miralbit)**.
+Stay tuned for updates and new features of **Miral Music** on my **[Miral Apps Telegram Channel](https://t.me/miralapps)**.
 
 ### 🛠 Tech Stack
 I'm experienced with a diverse set of tools and languages:
@@ -26,8 +27,8 @@ I'm always exploring and experimenting with new tools and frameworks to refine m
 
 <h2 align="center">💻 Full-Stack & Mobile Developer from Ashgabat 💻</h2>
 
-- 🔭 Currently working on [Miral BIT](https://t.me/miralbit)
-- 📝 Regularly share updates and articles about my app on **[Miral BIT Channel](https://t.me/miralbit)**
+- 🔭 Currently working on [Miral Miral Music](https://t.me/miralapps)
+- 📝 Regularly share updates and articles about my app on **[Miral Apps Channel](https://t.me/miralapps)**
 - 💬 Feel free to ask me about **Flutter, Python, Firebase, and more**
 - 📫 Reach me at **[abbastadam@gmail.com](mailto:abbastadam@gmail.com)**
 - 👓 Portfolio - **Coming Soon**
