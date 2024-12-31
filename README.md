@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Miral Abbastada (aka Abdulla)
 
 ### 💻 About Me
-I'm a passionate developer with over 3 years of experience in programming. With strong programming skills, I continuously explore new technologies and build projects that challenge and expand my expertise.
+I'm a passionate developer with over 4 years of experience in programming. With strong programming skills, I continuously explore new technologies and build projects that challenge and expand my expertise.
 
 Currently, I'm focused on **mobile development with Flutter**, where I'm creating engaging projects and expanding my tech knowledge.
 
